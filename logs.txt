@@ -1,0 +1,53 @@
+commit 42049d8cb96b99cd102f1715e459ae3614ba7362 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: aleksandarchanev <chanevaleksandar8@gmail.com>
+Date:   Sun Apr 14 20:12:54 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit f5b79eedf9d1b9c86982760e5b0e52c56396ea1a
+Author: aleksandarchanev <chanevaleksandar8@gmail.com>
+Date:   Sun Apr 14 20:02:29 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit dc65fd5122436935c461926f3a444ff978a501d6 (origin/bug1, bug1)
+Author: aleksandarchanev <chanevaleksandar8@gmail.com>
+Date:   Sun Apr 14 20:05:48 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 19ebd6e6ad120f340d618ec82572a2301b88538d
+Author: aleksandarchanev <chanevaleksandar8@gmail.com>
+Date:   Sun Apr 14 19:59:00 2024 +0200
+
+    Add starter code
+
+commit 0d44b1979263b50cdcd033c70c9da6d159614000
+Author: aleksandarchanev <chanevaleksandar8@gmail.com>
+Date:   Sun Apr 14 19:57:16 2024 +0200
+
+    Initial commit
+(END)
+commit f5b79eedf9d1b9c86982760e5b0e52c56396ea1a
+Author: aleksandarchanev <chanevaleksandar8@gmail.com>
+Date:   Sun Apr 14 20:02:29 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit dc65fd5122436935c461926f3a444ff978a501d6 (origin/bug1, bug1)
+Author: aleksandarchanev <chanevaleksandar8@gmail.com>
+Date:   Sun Apr 14 20:05:48 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 19ebd6e6ad120f340d618ec82572a2301b88538d
+Author: aleksandarchanev <chanevaleksandar8@gmail.com>
+Date:   Sun Apr 14 19:59:00 2024 +0200
+
+    Add starter code
+
+commit 0d44b1979263b50cdcd033c70c9da6d159614000
+Author: aleksandarchanev <chanevaleksandar8@gmail.com>
+Date:   Sun Apr 14 19:57:16 2024 +0200
+
+    Initial commit
